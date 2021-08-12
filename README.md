@@ -1,6 +1,9 @@
 ### Generation Brasil :rocket: 
 ---
 
+## Objetivo
+<p> Este repositório tem como finalidade armazenar todos os projetos realizados na Generation Brasil. <p>
+
 
 ## Sobre
 <p> A Generation é um programa sem fins lucrativos de capacitação e inserção de jovens talentos no mercado de trabalho. <p>
