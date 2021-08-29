@@ -1,9 +1,7 @@
 <h1> :rocket: Generation Brasil </h1>
 
-
 <h2> Objetivo </h2>
 <p> Este repositório tem como finalidade armazenar todos os projetos realizados na Generation Brasil. <p>
-
 
 <h2> Sobre </h2>
 <p> A Generation é um programa sem fins lucrativos de capacitação e inserção de jovens talentos no mercado de trabalho. <p>
@@ -15,7 +13,7 @@
 <p> 🌍 HTML + CSS + Javascript: HTML5, CSS3, Bootstrap, DOM, seletores, adicionar/apagar, edição; objetos, variáveis, escopos; gerenciamento estendido: storage, forms, embeds; requisições por AJAX;<p> 
 <p> 🌍 Programação Avançada: Utilização de Java para desenvolvimento back-end e criação de APIs e utilização do framework Spring;<p> 
 <p> 🌍 Metodologia SCRUM: metodologia ágil para gestão e planejamento de projetos de desenvolvimento web.<p> 
-<br>
+
 <h2> Habilidades comportamentais: </h2> 
 <p> 🌍 Coordenar e se comunicar com sua equipe e clientes;<p> 
 <p> 🌍 Identificar quando pedir ajuda e quais recursos utilizar;<p> 
