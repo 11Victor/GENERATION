@@ -7,7 +7,7 @@
 <p> A Generation é um programa sem fins lucrativos de capacitação e inserção de jovens talentos no mercado de trabalho. <p>
 
 <h2> Especificações Técnicas: </h2>
-<p> Bootcamp realizado na Generation Brasil por 3 meses (457 horas), aprendendo as seguintes habilidades técnicas:<p> 
+<p> Bootcamp realizado na Generation Brasil por 3 meses (447 horas), aprendendo as seguintes habilidades técnicas:<p> 
 <p> 🌍 Estrutura de dados: princípios, estrutura e hierarquia de dados e programação orientada a objetos;<p> 
 <p> 🌍 Banco de Dados: introdução a bases de dados relacionais; Structured Query Language (SQL)<p> 
 <p> 🌍 HTML + CSS + Javascript: HTML5, CSS3, Bootstrap, DOM, seletores, adicionar/apagar, edição; objetos, variáveis, escopos; gerenciamento estendido: storage, forms, embeds; requisições por AJAX;<p> 
